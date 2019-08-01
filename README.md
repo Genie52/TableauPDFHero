@@ -33,6 +33,7 @@ https://www.youtube.com/playlist?list=PLe9UEU4oeAuWnh455sobgt5997mj0MB1b
 GITHub – My Hands on Session on Embedding tableau, starting small  Flask server (web server), managing SSO, JavaScript and REST API
 
 https://github.com/Genie52/TCE19  -> code
+
 https://github.com/Genie52/TCE19/wiki -> wiki with tutorials
     
 
