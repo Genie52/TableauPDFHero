@@ -20,5 +20,19 @@ hint:
 I would reccomend revciewing TCS documentation - https://tableau.github.io/server-client-python/docs/ - how to work with Tableau REST APIs
 
 Tableau-PDF-Pagination.py - this is Flask file and will run mini web server with mini portal for embedded Tableau demo. Also uses Trusted Ticketing. It has examples of filtering Tableau with HTML filters (self populated from tableau filters) and how to send selcted filters back to Flask backend so we can call Tableau REST APIs with needed information to print PDFs. - more to come - after my vacation :)
+
+Great VIDEO tutorials about embedding Tableau - a must watch!
+
+https://www.tableau.com/learn/tutorials/on-demand/javascript-api-event-listeners?product=tableau_server&version=8_0&topic=apis
+
+More Video Tutorials - Tableau JavaScript API: Bridging the Getting Started tutorial with the Online Tutorial
+https://www.youtube.com/playlist?list=PLe9UEU4oeAuWnh455sobgt5997mj0MB1b
+
+<b>How I have build this mini Flask portal:</b>
+
+GITHub – My Hands on Session on Embedding tableau, starting small  Flask server (web server), managing SSO, JavaScript and REST API
+
+https://github.com/Genie52/TCE19  -> code
+https://github.com/Genie52/TCE19/wiki -> wiki with tutorials
     
 
